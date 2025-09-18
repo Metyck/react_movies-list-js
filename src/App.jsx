@@ -2,7 +2,7 @@
 
 import './App.scss';
 import movies from './api/movies.json';
-import { MovieList } from './components/MovieList';
+import { MovieList } from './components/MovieList/MovieList';
 // import moviesFromServer from './api/movies.json';
 
 export const App = () => (
